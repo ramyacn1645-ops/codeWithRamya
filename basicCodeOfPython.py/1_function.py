@@ -4,6 +4,8 @@ def avg():
     c=4
     averge = (a+b+c)/3
     return averge
-    
+
+
+avg()
     
     
