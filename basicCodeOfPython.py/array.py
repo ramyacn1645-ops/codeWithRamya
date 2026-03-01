@@ -6,4 +6,4 @@ for num in array:
       unique_set.append(num)
       seen.add(num)
 unique_array = list(unique_set)
-print(unique_
+print(unique_array)
