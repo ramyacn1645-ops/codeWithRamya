@@ -1,2 +1,2 @@
-S1 = "@@@Welcome@@@"
-S1.strip("@")
+S1 = "  Welcome   "
+S1.strip()
