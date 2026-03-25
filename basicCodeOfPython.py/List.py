@@ -8,7 +8,6 @@ for i in range(num):
 for i in range(num):
     number.append(int(input("Enter the number:")))
 
-
 print("The number in the list:\n")
 print(number)
 sum=0
@@ -24,10 +23,7 @@ print("mean is: ",mean)
 for i in range(num):
       sum1 = sum1 + pow((number[i]-mean),2)
        
-
 variance = sum1/num
 print("variance is: ",variance)
 sd= sqrt(variance)
-print("The standard deviation is: ",sd
-  
-     
+print("The standard deviation is: ",sd)
