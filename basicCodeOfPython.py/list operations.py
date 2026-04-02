@@ -37,5 +37,15 @@ id(list1)l
 print(list1)
 id(list2)
 # ID's  of both the lists are same as the list2 copy tne list1 itself not just their elements 
-print(list2) 
+print(list2)
 
+id(list1)l
+print(list1)
+id(list2)
+# ID's  of both the lists are same as the list2 copy tne list1 itself not just their elements 
+print(list2) 
+id(list1)l
+print(list1)
+id(list2)
+# ID's  of both the lists are same as the list2 copy tne list1 itself not just their elements 
+print(list2)
