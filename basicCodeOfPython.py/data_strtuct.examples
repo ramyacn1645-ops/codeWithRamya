@@ -1,0 +1,10 @@
+# list and it's operatrions
+
+#create a list 
+l1 = [1,2,'apple','banana']
+# accessing elements through indexing
+l2 = l1[0]
+print(l2[0])  # positive indexing
+l3 = l1[-1]
+print(l3[-1])  # negative indexing
+# accesing part or subset or list using slicing
