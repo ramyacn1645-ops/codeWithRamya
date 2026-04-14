@@ -1,0 +1,14 @@
+#collecting a feedback from the user and formalizing it and gthen to print how many words are there in the feedback
+
+feedback = input("Enter your opinion about work:")
+
+feedback = feedback.split()
+feedback = feedback.lower()
+if (feedback.startwith("good")):
+    print("The statement starts with the word good")
+else:
+    print("")
+count = 0
+for i in feedback:
+    count +=1
+print(count)
