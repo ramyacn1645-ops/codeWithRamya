@@ -8,3 +8,14 @@ print(l2)  # positive indexing
 l3 = l1[-1]
 print(l3)  # negative indexing
 # accesing part or subset or list using slicing
+l4 = l1[0::1]
+print(l4)
+
+
+
+# example for dictionary 
+student = {
+    "name": "Ramya",
+    "age": 20,
+    "course": "Python"
+}
