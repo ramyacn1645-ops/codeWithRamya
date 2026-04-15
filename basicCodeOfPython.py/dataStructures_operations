@@ -31,3 +31,6 @@ del student["course"]     # Deletes course
 # looping through dictionary 
 for key in student:
     print(key, student[key])
+# another way of looping
+for key, value in student.items():
+    print(key, value)
